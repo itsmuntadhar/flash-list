@@ -7,6 +7,8 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+- Added Fabric support for iOS and Android
+
 ## [1.6.1] - 2023-09-14
 
 - Prevent an expired layout provider from being used again
